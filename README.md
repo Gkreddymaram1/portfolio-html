@@ -1,7 +1,7 @@
 
 # Portfolio Website – HTML  
 Welcome to my personal portfolio website!  
-This project is built with pure HTML and CSS to showcase my profile, skills, projects and contact details.
+This project is built with pure HTML  to showcase my profile, skills, projects and contact details.
 
 ## 👤 About Me  
 Hi, I’m *Gopal Krishna Reddy*.  
